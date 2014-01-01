@@ -1,0 +1,24 @@
+{
+    "name":"27Cubes/gitflow-testing",
+    "description":"Test repo",
+    "type":"project",
+    "license": "proprietary",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "require-dev": {
+        "phploc/phploc": "*"
+    },
+    "authors": [
+        {
+            "name": "Mike Hickey",
+            "email": "info@27cubes.com",
+            "homepage": "http://www.27cubes.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "classmap": ["."]
+    }
+}
+
